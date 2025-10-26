@@ -1,0 +1,1 @@
+// This file is cleaned up. Mock data is now managed in Zustand stores.
